@@ -5,9 +5,9 @@
 
   <testsuite name="test.upload-video"
     errors="0" failures="0" hostname="" id="" package="upload-video" skipped="0"
-    tests="1" time="1443" timestamp="">
+    tests="1" time="48.01" timestamp="">
   
-    <testcase name="Video upload" classname="test.upload-video" time="5.510" assertions="1">
+    <testcase name="Video upload" classname="test.upload-video" time="9.041" assertions="1">
 
     
     </testcase>
